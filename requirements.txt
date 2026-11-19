@@ -1,0 +1,15 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+python-dotenv
+tiktoken
+openai
+langchain
+langchain-community
+autogen-ext[http-tool]
+autogen-ext[openai]
+langchain-google-community
+mem0ai
+autogen-ext[chromadb]
+autogen-ext[mcp]
+mcp>=1.11.0,<2.0.0
