@@ -1,0 +1,8 @@
+mcp>=1.11.0,<2.0.0
+autogen-ext[mcp]
+autogen-agentchat
+autogen-core
+autogen-ext
+python-dotenv
+autogen-ext[http-tool]
+autogen-ext[openai]
